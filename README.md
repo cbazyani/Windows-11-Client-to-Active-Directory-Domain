@@ -18,3 +18,6 @@ Under IP assignment, it displays Automatic (DHCP). Click Edit to assign the stat
 Copy the IP address, subnet mask and default gateway to the apparent fields in the Edit IP settings window.
 
 Note: DNS is important because this is how we will join our Windows Client later to the domain. Both the client and the server should be on the same network. The preferred DNS is already filled being the loopback address. The loopback address simply means "look at yourself". Because the Windows Server is the DNS server hosting the Active Directory database, it needs to query its own local DNS service to resolve domain traffic.
+
+<img width="1115" height="517" alt="image" src="https://github.com/user-attachments/assets/42559c32-590f-4e26-b11c-55bee0a6a63d" />
+
